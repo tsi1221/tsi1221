@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi there! I'm Tsehay
 
-<!--
-**tsi1221/tsi1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student**  
+🎨 **UI/UX Designer** — Figma enthusiast crafting clean, responsive, and user-centered designs  
+💻 **MERN Stack Developer** — MongoDB | Express | React (Vite) | Node.js  
+🚀 Currently exploring **DevOps & Deployment** to build and scale powerful applications  
+🌱 Always learning, improving, and experimenting with new technologies  
+🎯 On a mission to turn ideas into impactful digital solutions — and always ready with the next big idea 💡
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tsehaynesh-biruh-8681852a4/)
+- ✉️ Email: tsehayneshbiruh2@gmail.com
