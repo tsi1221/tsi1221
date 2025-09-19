@@ -1,3 +1,12 @@
+
+<img width="544" height="297" alt="image" src="https://github.com/user-attachments/assets/3940c756-9bc1-4085-9d18-6eea04a00ddc" />
+
+
+
+
+
+
+
 👋 Hi there! I'm Tsehay
 
 🎓 **Software Engineering Student**  
