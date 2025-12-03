@@ -1,4 +1,6 @@
-<!-- Profile Banner with Zoom & Animation -->
+<!-- ====================== -->
+<!-- 🎨 Animated Banner -->
+<!-- ====================== -->
 <div align="center">
   <img 
     src="https://github.com/user-attachments/assets/3940c756-9bc1-4085-9d18-6eea04a00ddc" 
@@ -16,14 +18,32 @@
 ---
 
 ## 🌐 Connect with Me
-
+<div align="center">
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tsehaynesh-biruh-ix1g.vercel.app) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tsehaynesh_Biruh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsehaynesh-biruh-8681852a4/) 
 [![Email](https://img.shields.io/badge/Email-tsehayneshbiruh2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsehayneshbiruh2@gmail.com)
+</div>
 
 ---
 
-## 💻 Tech Stack & Skills
+## 📊 GitHub Stats & Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TsehayneshBiruh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsehayneshBiruh&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/TsehayneshBiruh/count.svg)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TsehayneshBiruh&theme=radical&row=1&column=5)
+  ![Followers](https://img.shields.io/github/followers/TsehayneshBiruh?style=social)
+  ![Stars](https://img.shields.io/github/stars/TsehayneshBiruh?style=social)
+</div>
+
+---
+
+<details>
+<summary>💻 Tech Stack & Skills</summary>
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -47,9 +67,11 @@
 ![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white) 
 ![UI/UX](https://img.shields.io/badge/UI_UX-FF69B4?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
----
+</div>
+</details>
 
-## 🌱 Currently Learning
+<details>
+<summary>🌱 Currently Learning</summary>
 
 - Advanced DevOps & CI/CD pipelines  
 - Cloud deployment & scaling strategies  
@@ -57,9 +79,10 @@
 - Blockchain development & Cardano smart contracts  
 - Full-stack architecture optimization
 
----
+</details>
 
-## ⚡ Fun Fact & Personality
+<details>
+<summary>⚡ Fun Fact & Personality</summary>
 
 I am **brave**, deeply self-aware, and an **INFJ (Advocate)** personality.
 
@@ -92,3 +115,5 @@ I am **brave**, deeply self-aware, and an **INFJ (Advocate)** personality.
 **Quote:**  
 > “It’s better to fail while striving for something wonderful than to never try at all.” – Jimmy Carter  
 > “Treat people as if they were what they ought to be, and you help them become what they are capable of being.” – Goethe
+
+</details>
