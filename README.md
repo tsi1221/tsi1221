@@ -1,8 +1,4 @@
-<!-- Profile Banner with Zoom Animation -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/your-animated-banner.gif" width="600" />
-</p>
-
+<!-- Profile Banner with Zoom & Animation --> <div align="center"> <img src="https://github.com/user-attachments/assets/3940c756-9bc1-4085-9d18-6eea04a00ddc" width="600" style="transition: transform 0.5s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" /> </div>
 # 👋 Hello, I'm Tsehaynesh Biruh
 
 **Software Engineering Student | UI/UX Designer | Full-Stack Developer | Blockchain Enthusiast**
