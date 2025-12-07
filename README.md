@@ -1,22 +1,7 @@
-<!-- Profile Banner with Zoom & Animation -->
-<div align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/3940c756-9bc1-4085-9d18-6eea04a00ddc" 
-    width="600" 
-    class="hover-zoom"
-  />
-</div>
-
-<style>
-.hover-zoom {
-  transition: transform 0.5s ease;
-  cursor: pointer;
-}
-
-.hover-zoom:hover {
-  transform: scale(1.1);
-}
-</style>
+<!-- Profile Banner with Zoom Animation -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/your-animated-banner.gif" width="600" />
+</p>
 
 # 👋 Hello, I'm Tsehaynesh Biruh
 
