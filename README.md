@@ -3,11 +3,20 @@
   <img 
     src="https://github.com/user-attachments/assets/3940c756-9bc1-4085-9d18-6eea04a00ddc" 
     width="600" 
-    style="transition: transform 0.5s ease; cursor: pointer;"
-    onmouseover="this.style.transform='scale(1.1)';"
-    onmouseout="this.style.transform='scale(1)';"
+    class="hover-zoom"
   />
 </div>
+
+<style>
+.hover-zoom {
+  transition: transform 0.5s ease;
+  cursor: pointer;
+}
+
+.hover-zoom:hover {
+  transform: scale(1.1);
+}
+</style>
 
 # 👋 Hello, I'm Tsehaynesh Biruh
 
