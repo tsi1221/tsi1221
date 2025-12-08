@@ -2,10 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <!-- Replace the URL below with your preferred image/GIF -->
-  <img src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://tse4.mm.bing.net/th/id/OIP.KUvdFlmCtUFA7ayjtK7InQHaHa?cb=ucfimg2&ucfimg=1&w=626&h=626&rs=1&pid=ImgDetMain&o=7&rm=3)" alt="Animated GIF" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3940c756-9bc1-4085-9d18-6eea04a00ddc" width="600" 
+       style="transition: transform 0.5s ease; cursor: pointer;" 
+       onmouseover="this.style.transform='scale(1.1)';" 
+       onmouseout="this.style.transform='scale(1)';" 
+       alt="Profile Banner" />
+</div>
 
 
 
