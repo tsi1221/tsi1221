@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Replace the URL below with your preferred image/GIF -->
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Animated GIF" />
+  <img src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://tse4.mm.bing.net/th/id/OIP.KUvdFlmCtUFA7ayjtK7InQHaHa?cb=ucfimg2&ucfimg=1&w=626&h=626&rs=1&pid=ImgDetMain&o=7&rm=3)" alt="Animated GIF" />
 </p>
 
 
