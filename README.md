@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There I`m Tsehay !+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" alt="Lo-fi GIF" />
-</p>
 
 <p align="center">
   👋 Hey, I'm <b>Tsehaynesh</b>
