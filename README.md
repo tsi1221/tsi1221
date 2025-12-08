@@ -1,5 +1,22 @@
-<!-- Profile Banner with Zoom & Animation --> <div align="center"> <img src="https://github.com/user-attachments/assets/3940c756-9bc1-4085-9d18-6eea04a00ddc" width="600" style="transition: transform 0.5s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" /> </div>
-# 👋 Hello, I'm Tsehaynesh Biruh
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" alt="Lo-fi GIF" />
+</p>
+
+<p align="center">
+  👋 Hey, I'm <b>Tsehaynesh</b>
+</p>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3940c756-9bc1-4085-9d18-6eea04a00ddc" width="600" 
+       style="transition: transform 0.5s ease; cursor: pointer;" 
+       onmouseover="this.style.transform='scale(1.1)';" 
+       onmouseout="this.style.transform='scale(1)';" 
+       alt="Profile Banner" />
+</div>
 
 **Software Engineering Student | UI/UX Designer | Full-Stack Developer | Blockchain Enthusiast**
 
