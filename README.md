@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/lofi2.gif" alt="Lo-fi GIF" />
+  <!-- Replace the URL below with your preferred image/GIF -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Animated GIF" />
 </p>
+
 
 
 **Software Engineering Student | UI/UX Designer | Full-Stack Developer | Blockchain Enthusiast**
