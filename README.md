@@ -12,11 +12,10 @@
 
 
 
-**Software Engineering Student | UI/UX Designer | Full-Stack Developer | Blockchain Enthusiast**
+Software Engineering Student | UI/UX Designer | Full-Stack Developer | Blockchain Enthusiast**
 
----
 
-## 🌐 Connect with Me
+🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tsehaynesh-biruh-ix1g.vercel.app) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tsehaynesh_Biruh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsehaynesh-biruh-8681852a4/) 
