@@ -8,10 +8,17 @@
 
 <p align="center">
 🌐 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tsehaynesh-biruh-ix1g.vercel.app) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tsehaynesh_Biruh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsehaynesh-biruh-8681852a4/) 
-[![Email](https://img.shields.io/badge/Email-tsehayneshbiruh2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsehayneshbiruh2@gmail.com)
+<a href="https://tsehaynesh-biruh-ix1g.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/tsehaynesh-biruh-8681852a4/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Tsehaynesh_Biruh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:tsehayneshbiruh2@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-tsehayneshbiruh2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </p>
+
 
 ---
 
@@ -60,7 +67,8 @@ I am **brave**, deeply self-aware, and an **INFJ (Advocate)** personality.
 ---
 
 ## 📊 GitHub Stats
+<!-- GitHub Stats -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsi1221&layout=compact&theme=tokyonight)](https://github.com/tsi1221)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsi1221&show_icons=true&theme=tokyonight)](https://github.com/tsi1221)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight)](https://github.com/tsi1221)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsi1221&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tsi1221" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsi1221&show_icons=true&locale=en&theme=tokyonight" alt="tsi1221" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight" alt="tsi1221" /></p>
