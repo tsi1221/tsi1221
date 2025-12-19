@@ -10,12 +10,11 @@
        alt="Profile Banner" />
 </div>
 
+<h3 align="center">Software Engineering Student | UI/UX Designer | Full-Stack Developer | Blockchain Enthusiast</h3>
 
+---
 
-Software Engineering Student | UI/UX Designer | Full-Stack Developer | Blockchain Enthusiast**
-
-
-🌐 Connect with Me
+## 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tsehaynesh-biruh-ix1g.vercel.app) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tsehaynesh_Biruh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsehaynesh-biruh-8681852a4/) 
@@ -75,15 +74,11 @@ I am **brave**, deeply self-aware, and an **INFJ (Advocate)** personality.
 ![Altruistic](https://img.shields.io/badge/Altruistic-FFB400?style=for-the-badge) 
 ![Creative](https://img.shields.io/badge/Creative-9B59B6?style=for-the-badge)  
 
-
-
 **Career Alignment:**  
 - Solve problems that positively impact others (healthcare, education, social apps)  
 - Express creativity through UI/UX, app design, and games  
 - Autonomy & thoughtful problem-solving  
 - Make a difference with technology  
-
-**Famous INFJs:** Gandhi, MLK Jr., Mandela, Mother Teresa, Barack Obama, Elon Musk  
 
 **Quotes:**  
 > “It’s better to fail while striving for something wonderful than to never try at all.” – Jimmy Carter  
