@@ -19,6 +19,10 @@
 </a>
 </p>
 
+<p align="center">
+👀 Profile Visitors  
+<img src="https://visitor-badge.laobi.icu/badge?page_id=tsi1221.tsi1221" alt="Profile Visitors"/>
+</p>
 
 ---
 
@@ -67,7 +71,6 @@ I am **brave**, deeply self-aware, and an **INFJ (Advocate)** personality.
 ---
 
 ## 📊 GitHub Stats
-<!-- GitHub Stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsi1221&show_icons=true&theme=tokyonight)](https://github.com/tsi1221)/
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight)](https://github.com/tsi1221)
-
+</p>
