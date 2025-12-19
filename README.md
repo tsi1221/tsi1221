@@ -68,7 +68,6 @@ I am **brave**, deeply self-aware, and an **INFJ (Advocate)** personality.
 
 ## 📊 GitHub Stats
 <!-- GitHub Stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsi1221&layout=compact&theme=tokyonight)](https://github.com/tsi1221)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsi1221&show_icons=true&theme=tokyonight)](https://github.com/tsi1221)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsi1221&show_icons=true&theme=tokyonight)](https://github.com/tsi1221)/
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight)](https://github.com/tsi1221)
 
