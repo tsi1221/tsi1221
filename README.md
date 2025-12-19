@@ -90,9 +90,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsi1221&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" alt="Top Languages" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=tsi1221&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight" alt="GitHub Streak" />
 </p>
