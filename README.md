@@ -27,7 +27,6 @@
 ---
 
 ## 💻 Tech Stack & Skills
-
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -54,25 +53,46 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced DevOps & CI/CD pipelines  
-- Cloud deployment & scaling strategies  
-- Advanced React patterns & hooks  
-- Blockchain development & Cardano smart contracts  
-- Full-stack architecture optimization  
+<p align="center">
+<img src="https://img.shields.io/badge/Advanced_DevOps_CI%2FCD-pink?style=for-the-badge&logo=appveyor" />
+<img src="https://img.shields.io/badge/Cloud_Deployment-9cf?style=for-the-badge&logo=appveyor" />
+<img src="https://img.shields.io/badge/Advanced_React_Hooks-orange?style=for-the-badge&logo=appveyor" />
+<img src="https://img.shields.io/badge/Blockchain_Cardano-lightblue?style=for-the-badge&logo=appveyor" />
+<img src="https://img.shields.io/badge/FullStack_Architecture-green?style=for-the-badge&logo=appveyor" />
+</p>
 
 ---
 
 ## ⚡ Fun Facts & Personality
-I am **brave**, deeply self-aware, and an **INFJ (Advocate)** personality.  
+<p align="center">
+<img src="https://img.shields.io/badge/Personality-INFJ-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Brave-Yes-green?style=for-the-badge" />
+</p>
 
-**Traits:** Introverted | Intuitive | Feeling | Judging  
-**Strengths:** Insightful | Principled | Passionate | Altruistic | Creative  
+<p align="center">
+<!-- Traits -->
+<img src="https://img.shields.io/badge/Traits-Introverted-lightgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Traits-Intuitive-lightgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Traits-Feeling-lightgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Traits-Judging-lightgrey?style=for-the-badge" />
+</p>
+
+<p align="center">
+<!-- Strengths -->
+<img src="https://img.shields.io/badge/Strengths-Insightful-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Strengths-Principled-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Strengths-Passionate-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Strengths-Altruistic-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Strengths-Creative-blue?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tsi1221&show_icons=true&locale=en&theme=tokyonight" alt="tsi1221 Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight" alt="tsi1221 Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsi1221&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" alt="Top Languages" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=tsi1221&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight" alt="GitHub Streak" />
 </p>
