@@ -1,10 +1,16 @@
-[![MasterHead](https://img.freepik.com/free-ai-image/business-office-remote-lifestyle_419050456.jpg)](https://tsehaynesh-biruh-ix1g.vercel.app)
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/00000000/000000000000000000000000.jpg"
+    alt="Tsehaynesh Biruh – Software Engineer"
+    width="900"
+  />
+</p>
 
 <h1 align="center">Hi 👋, I'm Tsehaynesh B.</h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;+Software+Engineering+Student;+UI%2FUX+Designer;+Full-Stack+Developer" 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;+Software+Engineering+Student;+UI%2FUX+Designer;+Full-Stack+Developer"
     alt="Typing SVG"
   />
 </p>
@@ -43,9 +49,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -91,5 +94,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight" />
 </p>
