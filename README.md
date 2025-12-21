@@ -1,11 +1,18 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581092795368-9b3b7b2a1f33?ixlib=rb-4.0.3&auto=format&fit=crop&w=900&q=80" alt="Female Developer" width="900" />
+  <img
+    src="https://images.unsplash.com/photo-1555949963-aa79dcee981d?ixlib=rb-4.0.3&auto=format&fit=crop&w=900&q=80"
+    alt="Female Developer at Work"
+    width="900"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tsehaynesh B.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;+Software+Engineering+Student;+UI%2FUX+Designer;+Full-Stack+Developer" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;+Software+Engineering+Student;+UI%2FUX+Designer;+Full-Stack+Developer"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
