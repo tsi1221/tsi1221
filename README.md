@@ -1,19 +1,11 @@
 <p align="center">
-  <!-- Replace the URL below with your GitHub CDN image link -->
-  <img
-    src="https://user-images.githubusercontent.com/12345678/your-banner-image.jpg"
-    alt="Tsehaynesh Biruh – Software Engineer"
-    width="900"
-  />
+  <img src="https://images.unsplash.com/photo-1581092795368-9b3b7b2a1f33?ixlib=rb-4.0.3&auto=format&fit=crop&w=900&q=80" alt="Female Developer" width="900" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tsehaynesh B.</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;+Software+Engineering+Student;+UI%2FUX+Designer;+Full-Stack+Developer"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;+Software+Engineering+Student;+UI%2FUX+Designer;+Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -48,13 +40,11 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge" />
 </p>
 
 ---
@@ -74,21 +64,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Personality-INFJ-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Brave-Yes-green?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Traits-Introverted-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Traits-Intuitive-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Traits-Feeling-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Traits-Judging-lightgrey?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Strengths-Insightful-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Strengths-Principled-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Strengths-Passionate-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Strengths-Altruistic-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Strengths-Creative-blue?style=for-the-badge" />
 </p>
 
 ---
