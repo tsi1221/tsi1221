@@ -1,27 +1,30 @@
-[![MasterHead](https://cdn.dribbble.com/users/1187031/screenshots/4484566/programming_woman.gif)](https://tsehaynesh-biruh-ix1g.vercel.app)
+[![MasterHead](https://img.freepik.com/free-ai-image/business-office-remote-lifestyle_419050456.jpg)](https://tsehaynesh-biruh-ix1g.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Tsehaynesh B.</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;Software+Engineering+Student;+UI/UX+Designer;+Full-Stack+Developer" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;+Software+Engineering+Student;+UI%2FUX+Designer;+Full-Stack+Developer" 
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-🌐 Connect with Me  
+🌐 <strong>Connect with Me</strong><br/><br/>
 <a href="https://tsehaynesh-biruh-ix1g.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/tsehaynesh-biruh-8681852a4/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Tsehaynesh_Biruh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Tsehaynesh_Biruh-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:tsehayneshbiruh2@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-tsehayneshbiruh2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:tsehayneshbiruh2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-tsehayneshbiruh2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
 <p align="center">
-👀 Profile Visitors  
-<img src="https://visitor-badge.laobi.icu/badge?page_id=tsi1221.tsi1221" alt="Profile Visitors"/>
+👀 <strong>Profile Visitors</strong><br/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=tsi1221.tsi1221" />
 </p>
 
 ---
@@ -47,18 +50,18 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white" />
-<img src="https://img.shields.io/badge/UI_UX-FF69B4?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 <p align="center">
-<img src="https://img.shields.io/badge/Advanced_DevOps_CI%2FCD-pink?style=for-the-badge&logo=appveyor" />
-<img src="https://img.shields.io/badge/Cloud_Deployment-9cf?style=for-the-badge&logo=appveyor" />
-<img src="https://img.shields.io/badge/Advanced_React_Hooks-orange?style=for-the-badge&logo=appveyor" />
-<img src="https://img.shields.io/badge/Blockchain_Cardano-lightblue?style=for-the-badge&logo=appveyor" />
-<img src="https://img.shields.io/badge/FullStack_Architecture-green?style=for-the-badge&logo=appveyor" />
+<img src="https://img.shields.io/badge/Advanced_DevOps_CI%2FCD-pink?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud_Deployment-9cf?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Advanced_React_Hooks-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Blockchain_Cardano-lightblue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FullStack_Architecture-green?style=for-the-badge" />
 </p>
 
 ---
@@ -70,7 +73,6 @@
 </p>
 
 <p align="center">
-<!-- Traits -->
 <img src="https://img.shields.io/badge/Traits-Introverted-lightgrey?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Traits-Intuitive-lightgrey?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Traits-Feeling-lightgrey?style=for-the-badge" />
@@ -78,7 +80,6 @@
 </p>
 
 <p align="center">
-<!-- Strengths -->
 <img src="https://img.shields.io/badge/Strengths-Insightful-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Strengths-Principled-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Strengths-Passionate-blue?style=for-the-badge" />
@@ -90,8 +91,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<br>
-
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight" />
 </p>
