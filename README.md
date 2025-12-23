@@ -76,12 +76,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tsi1221&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
 ---
 
 ## 📫 Connect With Me
@@ -100,29 +94,7 @@
   </a>
 </p>
 
----
-
-## 🌟 Featured Repositories
-<p align="center">
-  <a href="https://github.com/tsi1221/tic_tac_toe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tsi1221&repo=tic_tac_toe&theme=tokyonight" alt="Tic Tac Toe Repo"/>
-  </a>
-  <a href="https://github.com/tsi1221/Personal-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tsi1221&repo=Personal-portfolio&theme=tokyonight" alt="Portfolio Repo"/>
-  </a>
-  <a href="https://github.com/tsi1221/Jobapp-with-django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tsi1221&repo=Jobapp-with-django&theme=tokyonight" alt="Django Job App Repo"/>
-  </a>
-</p>
 
 ---
 
-## ☕ Support My Work
-<p align="center">
-  <a href="https://buymeacoffee.com/fira0l">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me a Coffee"/>
-  </a>
-  <a href="https://www.ko-fi.com/firaolanbessa170">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="200" alt="Ko-fi"/>
-  </a>
-</p>
+
