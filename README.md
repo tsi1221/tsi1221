@@ -1,9 +1,12 @@
 <p align="center">
-  <img
-    src="https://www.pexels.com/video/woman-working-on-a-desktop-6177726/"
-    alt="Female Developer at Work"
-    width="900"
-  />
+  <a href="https://www.pexels.com/video/woman-working-on-a-desktop-6177726/" target="_blank">
+    <img
+      src="https://images.pexels.com/videos/6177726/pexels-photo-6177726.jpeg"
+      alt="Video: Woman Working on a Desktop"
+      width="900"
+    />
+  </a>
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Tsehaynesh B.</h1>
