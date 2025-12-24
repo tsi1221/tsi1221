@@ -4,6 +4,7 @@
       src="https://images.pexels.com/videos/6177726/pexels-photo-6177726.jpeg"
       alt="Video: Woman Working on a Desktop"
       width="900"
+     height="260"
     />
   </a>
 
