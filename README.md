@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://images.unsplash.com/photo-1555949963-aa79dcee981d?ixlib=rb-4.0.3&auto=format&fit=crop&w=900&q=80"
+    src="https://www.pexels.com/video/woman-working-on-a-desktop-6177726/"
     alt="Female Developer at Work"
     width="900"
   />
