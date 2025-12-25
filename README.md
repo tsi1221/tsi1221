@@ -10,7 +10,7 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Tsehaynesh B.</h1>
+<h1 align="center">Hi 👋, I'm Tsehaynesh Biruh</h1>
 
 <p align="center">
   <img
