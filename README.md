@@ -61,7 +61,7 @@
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Advanced_DevOps_CI%2FCD-pink?style=for-the-badge" alt="DevOps"/>
   <img src="https://img.shields.io/badge/Cloud_Deployment-9cf?style=for-the-badge" alt="Cloud Deployment"/>
