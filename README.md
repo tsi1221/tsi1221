@@ -97,12 +97,6 @@ I believe great software feels **quiet, powerful, and human**.
 ### 📈 3D-Style Activity Graph (Aurora)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsi1221&bg_color=0D1117&color=00E5FF&line=7F00FF&point=FF4ECD&area=true&hide_border=true"/>
 
-### 📊 GitHub Stats
-<div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tsi1221&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsi1221&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
 ### 🔥 Engineering Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight&hide_border=true&ring=00FFB2&fire=FF4ECD"/>
 
