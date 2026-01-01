@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4"><img src="https://img.shields.io/badge/LinkedIn-00FFB2?style=for-the-badge&logo=linkedin&logoColor=0F172A"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=tsi1221&label=Profile%20Views&color=FF4ECD&style=for-the-badge"/>
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=" alt="Typing SVG">
 
 </div>
 
