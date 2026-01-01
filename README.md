@@ -95,10 +95,7 @@ I believe software should feel **quiet, powerful, and human**.
 ### 📈 3D-Style Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsi1221&bg_color=0D1117&color=FF4ECD&line=00E5FF&point=7F00FF&area=true&hide_border=true"/>
 
-### 🔥 Engineering Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight&hide_border=true&ring=FF4ECD&fire=00E5FF"/>
 
----
 
 ## 🌱 CURRENT FOCUS
 - **CI/CD & DevSecOps** at scale  
