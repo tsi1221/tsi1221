@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=900&center=true&vCenter=true&width=1000&height=110&lines=Engineering+with+clarity+and+intent;Designing+systems+that+scale;Building+calm+interfaces+and+strong+backends;Craft+•+Impact+•+Consistency" />
 </a>
 
-<p>
+<p>a
 <a href="mailto:tsehayneshbiruh2@gmail.com"><img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=0F172A"/></a>
 <a href="https://tsehaynesh-biruh-ix1g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://github.com/tsi1221"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
