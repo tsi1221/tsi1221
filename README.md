@@ -24,7 +24,7 @@
 
 <img align="right" width="420" src="https://images.pexels.com/videos/6177726/pexels-photo-6177726.jpeg"/>
 
-I’m **Tsehaynesh Biruh**, a **Software Engineering student and Full-Stack Developer**.
+I’m **Tsehaynesh Biruh**, a **Software Engineering student, Full-Stack Developer, DevOps enthusiast, and UI/UX designer**.  
 
 I build systems that are:
 - ⚙️ technically resilient  
@@ -72,25 +72,23 @@ I believe great software feels **quiet, powerful, and human**.
 
 ## 🌍 IMPACT | EXPERIENCE
 
-### Mobile App Developer Intern — Eaglelion System Technology
-- Flutter cross-platform apps  
-- Production-grade architecture  
-- Performance optimization  
+### INSA Summer Camp Participant — Information Network Security Administration
+- Part of **INSA Summer Camp 2025**  
+- Hands-on experience in **MERN Stack + DevOps + UI/UX design**  
+- Built sample applications integrating **frontend, backend, and cloud deployment**  
+- Completed **Fundamentals of DevOps on AWS** 🎓  
+- Completed **Introduction to Computer Networking** 🎓  
+- Upskilling hashtags: `#Upskilling #ITServiceandArchitecture #Certification #JobReady #SkillUpBySimplilearn`  
 
-### Full-Stack Developer — Marsa Startup
-- RESTful APIs  
-- Scalable UI systems  
-- Database design & integration  
+### African Blockchain Championship — Cardano Track
+- **2nd place winner** with **Afriland project**  
+- Tokenized land titles with blockchain, verified identities, and on-chain transactions  
+- Developed a role-based system including **Inspectors** for transparency and accountability  
 
-### Teaching Assistant — Jimma University
-- C++ programming labs  
-- Mentored 50+ students  
-- Code reviews & assessments  
-
-### Open Source Contributor
-- Tooling & shared libraries  
-- Global collaboration  
-- Clean, reusable systems  
+### Hackathons & Events
+- **ETEX 2025**, **Addis AI Set Hackathon (3rd place)**  
+- Women Techmakers Addis — contributing to female representation in tech  
+- Safaricom Talent Cloud Capstone Project — built **ProLog logistics MVP in 6 weeks**  
 
 ---
 
@@ -111,10 +109,10 @@ I believe great software feels **quiet, powerful, and human**.
 ---
 
 ## 🌱 CURRENT FOCUS
-- Advanced CI/CD & DevSecOps  
-- Cloud-scale architecture  
-- Advanced React patterns  
-- Blockchain systems (Cardano)  
+- Advanced **CI/CD & DevSecOps**  
+- Cloud-scale **MERN + Kubernetes** architecture  
+- Advanced **React patterns & UX micro-interactions**  
+- Blockchain systems (**Cardano / NFTs / DIDs**)  
 
 ---
 
