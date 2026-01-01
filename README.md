@@ -1,40 +1,39 @@
 <div align="center">
 
-<!-- 🌌 Hero Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Tsehaynesh%20Biruh&fontSize=56&fontColor=EAF2FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20UI%2FUX%20Designer&descAlignY=62&descSize=20&color=0:FF00C2,25:7F00FF,50:00E5FF,75:FF4ECD,100:00FFB2" width="100%"/>
+  <!-- 🎨 Animated Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;" alt="Typing SVG">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=900&center=true&vCenter=true&width=1000&height=110&lines=Engineering+with+clarity+and+intent;Designing+systems+that+scale;Building+calm+interfaces+and+strong+backends;Craft+•+Impact+•+Consistency" />
-</a>
+  <!-- 🌌 Hero Section -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Tsehaynesh%20Biruh&fontSize=56&fontColor=EAF2FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20UI%2FUX%20Designer&descAlignY=62&descSize=20&color=0:FF00C2,25:7F00FF,50:00E5FF,75:FF4ECD,100:00FFB2" width="100%"/>
 
-<p>
-<a href="mailto:tsehayneshbiruh2@gmail.com"><img src="https://img.shields.io/badge/Email-FF4ECD?style=for-the-badge&logo=gmail&logoColor=0F172A"/></a>
-<a href="https://tsehaynesh-biruh-ix1g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=0F172A"/></a>
-<a href="https://github.com/tsi1221"><img src="https://img.shields.io/badge/GitHub-7F00FF?style=for-the-badge&logo=github&logoColor=FF4ECD"/></a>
-<a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4"><img src="https://img.shields.io/badge/LinkedIn-00FFB2?style=for-the-badge&logo=linkedin&logoColor=0F172A"/></a>
-</p>
+  <!-- 🎯 Subtitle Animated Typing -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=900&center=true&vCenter=true&width=1000&height=110&lines=Engineering+with+clarity+and+intent;Designing+systems+that+scale;Building+calm+interfaces+and+strong+backends;Craft+•+Impact+•+Consistency" alt="Typing SVG" />
+  </a>
 
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=" alt="Typing SVG">
+  <!-- 📫 Contact & Portfolio Links -->
+  <p>
+    <a href="mailto:tsehayneshbiruh2@gmail.com"><img src="https://img.shields.io/badge/Email-FF4ECD?style=for-the-badge&logo=gmail&logoColor=0F172A"/></a>
+    <a href="https://tsehaynesh-biruh-ix1g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=0F172A"/></a>
+    <a href="https://github.com/tsi1221"><img src="https://img.shields.io/badge/GitHub-7F00FF?style=for-the-badge&logo=github&logoColor=FF4ECD"/></a>
+    <a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4"><img src="https://img.shields.io/badge/LinkedIn-00FFB2?style=for-the-badge&logo=linkedin&logoColor=0F172A"/></a>
+  </p>
 
 </div>
 
 ---
 
-## 🧬 ABOUT
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;" alt="Typing SVG">  
+## 🧬 ABOUT ME
 
 Hi, I’m **Tsehaynesh Biruh** — a **Software Engineering student, Full-Stack Developer, DevOps enthusiast, and UI/UX designer**.  
 
-I build systems that are:
-- ⚙️ technically resilient  
-- 🎨 visually intentional  
-- ☁️ cloud-ready and observable  
-- 🔗 future-proof  
+I build systems that are:  
+- ⚙️ **Technically resilient**  
+- 🎨 **Visually intentional**  
+- ☁️ **Cloud-ready & observable**  
+- 🔗 **Future-proof**  
 
 I believe software should feel **quiet, powerful, and human**.
-
-<br clear="right"/>
 
 ---
 
@@ -95,7 +94,7 @@ I believe software should feel **quiet, powerful, and human**.
 ### 📈 3D-Style Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsi1221&bg_color=0D1117&color=FF4ECD&line=00E5FF&point=7F00FF&area=true&hide_border=true"/>
 
-
+---
 
 ## 🌱 CURRENT FOCUS
 - **CI/CD & DevSecOps** at scale  
@@ -108,13 +107,14 @@ I believe software should feel **quiet, powerful, and human**.
 ## 🤝 CONNECT
 
 <p align="center">
-<a href="mailto:tsehayneshbiruh2@gmail.com"><img src="https://img.shields.io/badge/Email-FF4ECD?style=for-the-badge"/></a>
-<a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4"><img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge"/></a>
-<a href="https://tsehaynesh-biruh-ix1g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge"/></a>
+  <a href="mailto:tsehayneshbiruh2@gmail.com"><img src="https://img.shields.io/badge/Email-FF4ECD?style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4"><img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge"/></a>
+  <a href="https://tsehaynesh-biruh-ix1g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge"/></a>
 </p>
 
 ---
 
+<!-- 🌑 Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FF4ECD,25:00E5FF,50:7F00FF,75:00FFB2,100:FF00C2"/>
 
 <p align="center"><strong>Built with intent • Maintained with discipline • Improved continuously</strong></p>
