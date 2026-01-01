@@ -1,99 +1,110 @@
-<p align="center">
-  <a href="https://www.pexels.com/video/woman-working-on-a-desktop-6177726/" target="_blank">
-    <img
-      src="https://images.pexels.com/videos/6177726/pexels-photo-6177726.jpeg"
-      alt="Video: Woman Working on a Desktop"
-      width="900"
-     height="330"
-    />
-  </a>
+<div align="center">
 
-</p>
+<!-- 🌿 Animated Header with Green Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,50:22C55E,100:4ADE80&height=200&section=header&text=Tsehaynesh%20Biruh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Software%20Engineer%20|%20UI%2FUX%20Designer&descAlignY=55&descAlign=50&descSize=18" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Tsehaynesh Biruh</h1>
+<!-- ⌨️ Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&width=900&height=100&lines=🌱+Software+Engineering+Student;💻+Full-Stack+Developer;🎨+UI%2FUX+Designer;⚙️+DevOps+%26+Cloud+Explorer;🚀+Building+Impactful+Tech" />
+</a>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;+Software+Engineering+Student;+UI%2FUX+Designer;+Full-Stack+Developer"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  🌐 <strong>Connect with Me</strong><br/><br/>
-  <a href="https://tsehaynesh-biruh-ix1g.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tsehaynesh-biruh-8681852a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tsehaynesh_Biruh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<!-- 🌐 Social Links -->
+<p>
   <a href="mailto:tsehayneshbiruh2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tsehayneshbiruh2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-16A34A?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  👀 <strong>Profile Visitors</strong><br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tsi1221.tsi1221" alt="Profile Visitors"/>
-</p>
-
----
-
-## 💻 Tech Stack & Skills
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white" alt="Cardano"/>
-</p>
-
----
-
-# 🌱 Currently Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Advanced_DevOps_CI%2FCD-pink?style=for-the-badge" alt="DevOps"/>
-  <img src="https://img.shields.io/badge/Cloud_Deployment-9cf?style=for-the-badge" alt="Cloud Deployment"/>
-  <img src="https://img.shields.io/badge/Advanced_React_Hooks-orange?style=for-the-badge" alt="React Hooks"/>
-  <img src="https://img.shields.io/badge/Blockchain_Cardano-lightblue?style=for-the-badge" alt="Blockchain"/>
-  <img src="https://img.shields.io/badge/FullStack_Architecture-green?style=for-the-badge" alt="FullStack Architecture"/>
-</p>
-
----
-
-## ⚡ Fun Facts & Personality
-<p align="center">
-  <img src="https://img.shields.io/badge/Personality-INFJ-blue?style=for-the-badge" alt="Personality"/>
-  <img src="https://img.shields.io/badge/Brave-Yes-green?style=for-the-badge" alt="Brave"/>
-</p>
-
----
-
----
-
-## 📫 Connect With Me
-<p align="center">
+  <a href="https://tsehaynesh-biruh-ix1g.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
   <a href="https://github.com/tsi1221">
-    <img src="https://img.shields.io/badge/GitHub-tsi1221-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-15803D?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/tsehaynesh-biruh-8681852a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tsehaynesh_Biruh-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tsehayneshbiruh2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tsehayneshbiruh2@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://tsehaynesh-biruh-ix1g.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=tsi1221&label=Profile%20Views&color=22C55E&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🌿 About Me
+
+<img align="right" width="420" src="https://images.pexels.com/videos/6177726/pexels-photo-6177726.jpeg"/>
+
+I’m **Tsehaynesh Biruh**, a **Software Engineering student and Full-Stack Developer** with a strong passion for building scalable, user-centered applications.  
+I blend **engineering precision** with **UI/UX creativity**, and I enjoy working across the full stack from clean interfaces to robust backend systems.
+
+I’m especially interested in **DevOps, cloud deployment, and blockchain-powered solutions** that solve real-world problems.
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-16A34A?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-15803D?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-22C55E?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-4ADE80?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-16A34A?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-22C55E?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-15803D?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-166534?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-22C55E?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-16A34A?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-22C55E?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-15803D?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-16A34A?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-4ADE80?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cardano-166534?style=for-the-badge&logo=cardano&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tsi1221&show_icons=true&theme=github_dark&hide_border=true&title_color=22C55E&icon_color=4ADE80"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsi1221&layout=compact&theme=github_dark&hide_border=true&title_color=22C55E"/>
+</div>
+
+---
+
+## 🌱 Currently Exploring
+- Advanced **DevOps & CI/CD**
+- **Cloud Deployment & Scaling**
+- **Blockchain (Cardano)**
+- **Advanced React Patterns**
+
+---
+
+## 🤝 Let’s Connect
+
+<div align="center">
+  <a href="mailto:tsehayneshbiruh2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-16A34A?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tsehaynesh-biruh-8681852a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tsehaynesh-biruh-ix1g.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-4ADE80?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+  </a>
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,50:22C55E,100:4ADE80&height=120&section=footer" width="100%"/>
