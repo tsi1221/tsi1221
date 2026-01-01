@@ -22,7 +22,7 @@
 
 ## 🧬 ABOUT
 
-<img align="right" width="420" src="https://images.pexels.com/videos/6177726/pexels-photo-6177726.jpeg"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tsehaynesh+Biruh;+Software+Engineer;" alt="Typing SVG">  
 
 Hi, I’m **Tsehaynesh Biruh** — a **Software Engineering student, Full-Stack Developer, DevOps enthusiast, and UI/UX designer**.  
 
