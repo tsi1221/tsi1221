@@ -1,16 +1,16 @@
-<!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Tsehaynesh%20Biruh&fontSize=56&fontColor=EAF2FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20UI%2FUX%20Designer&descAlignY=62&descSize=20&color=0:00E5FF,25:7F00FF,50:FF4ECD,75:00FFB2,100:00C2FF" width="100%"/>
+<!-- 🌌 Hero Section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Tsehaynesh%20Biruh&fontSize=56&fontColor=EAF2FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20UI%2FUX%20Designer&descAlignY=62&descSize=20&color=0:FF00C2,25:7F00FF,50:00E5FF,75:FF4ECD,100:00FFB2" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=900&center=true&vCenter=true&width=1000&height=110&lines=Engineering+with+clarity+and+intent;Designing+systems+that+scale;Building+calm+interfaces+and+strong+backends;Craft+•+Impact+•+Consistency" />
 </a>
 
-<p>a
-<a href="mailto:tsehayneshbiruh2@gmail.com"><img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=0F172A"/></a>
-<a href="https://tsehaynesh-biruh-ix1g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="https://github.com/tsi1221"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
+<p>
+<a href="mailto:tsehayneshbiruh2@gmail.com"><img src="https://img.shields.io/badge/Email-FF4ECD?style=for-the-badge&logo=gmail&logoColor=0F172A"/></a>
+<a href="https://tsehaynesh-biruh-ix1g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=0F172A"/></a>
+<a href="https://github.com/tsi1221"><img src="https://img.shields.io/badge/GitHub-7F00FF?style=for-the-badge&logo=github&logoColor=FF4ECD"/></a>
 <a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4"><img src="https://img.shields.io/badge/LinkedIn-00FFB2?style=for-the-badge&logo=linkedin&logoColor=0F172A"/></a>
 </p>
 
@@ -24,15 +24,15 @@
 
 <img align="right" width="420" src="https://images.pexels.com/videos/6177726/pexels-photo-6177726.jpeg"/>
 
-I’m **Tsehaynesh Biruh**, a **Software Engineering student, Full-Stack Developer, DevOps enthusiast, and UI/UX designer**.  
+Hi, I’m **Tsehaynesh Biruh** — a **Software Engineering student, Full-Stack Developer, DevOps enthusiast, and UI/UX designer**.  
 
 I build systems that are:
 - ⚙️ technically resilient  
 - 🎨 visually intentional  
 - ☁️ cloud-ready and observable  
-- 🔗 future-proof with blockchain  
+- 🔗 future-proof  
 
-I believe great software feels **quiet, powerful, and human**.
+I believe software should feel **quiet, powerful, and human**.
 
 <br clear="right"/>
 
@@ -42,69 +42,67 @@ I believe great software feels **quiet, powerful, and human**.
 
 ### 🎨 Frontend
 <p>
-<img src="https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=0F172A"/>
-<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=7F00FF"/>
-<img src="https://img.shields.io/badge/TypeScript-7F00FF?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-00FFB2?style=for-the-badge&logo=javascript&logoColor=0F172A"/>
-<img src="https://img.shields.io/badge/Tailwind-00C2FF?style=for-the-badge&logo=tailwindcss&logoColor=0F172A"/>
-<img src="https://img.shields.io/badge/Figma-FF4ECD?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0F172A"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
 </p>
 
 ### ⚙️ Backend & Data
 <p>
-<img src="https://img.shields.io/badge/Node.js-00FFB2?style=for-the-badge&logo=nodedotjs&logoColor=0F172A"/>
-<img src="https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/MongoDB-7F00FF?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-00E5FF?style=for-the-badge&logo=postgresql&logoColor=0F172A"/>
-<img src="https://img.shields.io/badge/MySQL-FF4ECD?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/REST_API-FF4ECD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge"/>
 </p>
 
 ### ☁️ DevOps • Infra • Blockchain
 <p>
-<img src="https://img.shields.io/badge/Docker-00E5FF?style=for-the-badge&logo=docker&logoColor=0F172A"/>
-<img src="https://img.shields.io/badge/Kubernetes-7F00FF?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-FF4ECD?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=00FFB2"/>
-<img src="https://img.shields.io/badge/Cardano-00C2FF?style=for-the-badge&logo=cardano&logoColor=0F172A"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF"/>
 </p>
 
 ---
 
-## 🌍 IMPACT | EXPERIENCE
+## 🌍 EXPERIENCE & IMPACT
 
 ### INSA Summer Camp Participant — Information Network Security Administration
-- Part of **INSA Summer Camp 2025**  
-- Hands-on experience in **MERN Stack + DevOps + UI/UX design**  
-- Built sample applications integrating **frontend, backend, and cloud deployment**  
+- Participated in **INSA Summer Camp 2025**  
+- Hands-on **MERN Stack + DevOps + UI/UX projects**  
+- Built **sample applications integrating frontend, backend, and cloud deployment**  
 - Completed **Fundamentals of DevOps on AWS** 🎓  
 - Completed **Introduction to Computer Networking** 🎓  
 - Upskilling hashtags: `#Upskilling #ITServiceandArchitecture #Certification #JobReady #SkillUpBySimplilearn`  
-
-### African Blockchain Championship — Cardano Track
-- **2nd place winner** with **Afriland project**  
-- Tokenized land titles with blockchain, verified identities, and on-chain transactions  
-- Developed a role-based system including **Inspectors** for transparency and accountability  
-
-### Hackathons & Events
-- **ETEX 2025**, **Addis AI Set Hackathon (3rd place)**  
-- Women Techmakers Addis — contributing to female representation in tech  
-- Safaricom Talent Cloud Capstone Project — built **ProLog logistics MVP in 6 weeks**  
 
 ---
 
 ## 📊 METRICS | CONSISTENCY & MOMENTUM
 
-### 📈 3D-Style Activity Graph (Aurora)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsi1221&bg_color=0D1117&color=00E5FF&line=7F00FF&point=FF4ECD&area=true&hide_border=true"/>
+### 📈 3D-Style Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsi1221&bg_color=0D1117&color=FF4ECD&line=00E5FF&point=7F00FF&area=true&hide_border=true"/>
 
 ### 🔥 Engineering Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight&hide_border=true&ring=00FFB2&fire=FF4ECD"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tsi1221&theme=tokyonight&hide_border=true&ring=FF4ECD&fire=00E5FF"/>
 
 ---
 
 ## 🌱 CURRENT FOCUS
-- Advanced **CI/CD & DevSecOps**  
-- Cloud-scale **MERN + Kubernetes** architecture  
+- **CI/CD & DevSecOps** at scale  
+- Cloud-ready **MERN + Kubernetes architectures**  
 - Advanced **React patterns & UX micro-interactions**  
 - Blockchain systems (**Cardano / NFTs / DIDs**)  
 
@@ -113,13 +111,13 @@ I believe great software feels **quiet, powerful, and human**.
 ## 🤝 CONNECT
 
 <p align="center">
-<a href="mailto:tsehayneshbiruh2@gmail.com"><img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge"/></a>
-<a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4"><img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge"/></a>
-<a href="https://tsehaynesh-biruh-ix1g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF4ECD?style=for-the-badge"/></a>
+<a href="mailto:tsehayneshbiruh2@gmail.com"><img src="https://img.shields.io/badge/Email-FF4ECD?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4"><img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge"/></a>
+<a href="https://tsehaynesh-biruh-ix1g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge"/></a>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00E5FF,25:7F00FF,50:FF4ECD,75:00FFB2,100:00C2FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FF4ECD,25:00E5FF,50:7F00FF,75:00FFB2,100:FF00C2"/>
 
 <p align="center"><strong>Built with intent • Maintained with discipline • Improved continuously</strong></p>
