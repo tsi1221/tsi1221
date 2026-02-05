@@ -6,7 +6,6 @@
   <!-- 🌌 Hero Section -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Tsehaynesh%20Biruh&fontSize=56&fontColor=EAF2FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20UI%2FUX%20Designer&descAlignY=62&descSize=20&color=0:FF00C2,25:7F00FF,50:00E5FF,75:FF4ECD,100:00FFB2" width="100%"/>
 
-  <!-- 🎯 Subtitle Animated Typing -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=900&center=true&vCenter=true&width=1000&height=110&lines=Engineering+with+clarity+and+intent;Designing+systems+that+scale;Building+calm+interfaces+and+strong+backends;Craft+•+Impact+•+Consistency" alt="Typing SVG" />
   </a>
