@@ -25,7 +25,7 @@
 # 🧬 ABOUT ME 
 <!-- 📫 Contactortifolio = https://tsehayneshbiruh-et-com.onrender.com/  -->p
 
-<img align="right" alt="3D Woman Developer" width="380" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a19d3-dadf-4a35-b2e5-bc3f9ac1c3ca.gif"/>
+<img align="right" alt="3D Woman Developer" width="380" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 Hi, I’m **Tsehaynesh Biruh** — a **Software Engineering student, Full-Stack Developer, DevOps enthusiast, and UI/UX designer**.
 
