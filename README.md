@@ -11,10 +11,21 @@
 
 <!-- 📫 Contact -->
 <p>
-<a href="mailto:tsehayneshbiruh2@gmail.com"><img src="https://img.shields.io/badge/Email-FF4ECD?style=for-the-badge&logo=gmail&logoColor=0F172A"/></a>
-<a href="https://tsehaynesh-biruh-ix1g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=0F172A"/></a>
-<a href="https://github.com/tsi1221"><img src="https://img.shields.io/badge/GitHub-7F00FF?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
-<a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4"><img src="https://img.shields.io/badge/LinkedIn-00FFB2?style=for-the-badge&logo=linkedin&logoColor=0F172A"/></a>
+<a href="mailto:tsehayneshbiruh2@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF4ECD?style=for-the-badge&logo=gmail&logoColor=0F172A"/>
+</a>
+
+<a href="https://tsehaynesh-biruh-ix1g.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=0F172A"/>
+</a>
+
+<a href="https://github.com/tsi1221">
+<img src="https://img.shields.io/badge/GitHub-7F00FF?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4">
+<img src="https://img.shields.io/badge/LinkedIn-00FFB2?style=for-the-badge&logo=linkedin&logoColor=0F172A"/>
+</a>
 </p>
 
 </div>
@@ -25,14 +36,14 @@
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" />
 
-Hi, I’m **Tsehaynesh Biruh** — a **Software Engineering student, Full-Stack Developer, DevOps enthusiast, and UI/UX designer**.
+I am **Tsehaynesh Biruh**, a **Software Engineering student, Full-Stack Developer, DevOps enthusiast, and UI/UX designer**.
 
-I build **scalable, maintainable, and user-focused systems** that balance engineering strength with clean design.
+I focus on building **scalable, maintainable, and user-centered applications** with strong attention to performance and clean architecture.
 
 ### ⚙️ Core Principles
-- Reliable and scalable systems  
-- Clean and maintainable architecture  
-- Cloud-ready development practices  
+- Scalable and reliable system design  
+- Clean and maintainable codebase  
+- Cloud-ready engineering mindset  
 - Human-centered UI/UX design  
 
 ---
@@ -80,58 +91,33 @@ I build **scalable, maintainable, and user-focused systems** that balance engine
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=FFFFFF"/>
 </p>
 
 ---
 
-# 🌍 EXPERIENCE
-
-## INSA Summer Camp (2025)
-Information Network Security Administration (INSA)
-
-- MERN Stack & DevOps development  
-- CI/CD pipeline implementation  
-- Cloud deployment practice  
-- Containerization & scalable architecture  
-- AWS DevOps fundamentals certification  
-- Networking fundamentals certification  
-
----
-
-# 📊 ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsi1221&bg_color=0D1117&color=FF4ECD&line=00E5FF&point=7F00FF&area=true&hide_border=true" />
-
----
-
-# 🌱 CURRENT FOCUS
-
-- CI/CD & DevSecOps  
-- Cloud-native full-stack systems  
-- Advanced React architecture  
-- API documentation (Swagger)  
-- Modern UI systems (shadcn/ui)  
-- Blockchain & Web3 systems  
-
----
-
-# 🤝 CONNECT
-
-<p align="center">
-<a href="mailto:tsehayneshbiruh2@gmail.com"><img src="https://img.shields.io/badge/Email-FF4ECD?style=for-the-badge"/></a>
-<a href="https://github.com/tsi1221"><img src="https://img.shields.io/badge/GitHub-7F00FF?style=for-the-badge"/></a>
-<a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4"><img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge"/></a>
-<a href="https://tsehaynesh-biruh-ix1g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FFB2?style=for-the-badge"/></a>
-</p>
-
----
+# 📊 GITHUB STATS
 
 <div align="center">
-**Built with intent • Scaled with discipline • Improved continuously**
 
-</div>?type=waving&height=130&section=footer&color=0:FF4ECD,25:00E5FF,50:7F00FF,75:00FFB2,100:FF00C2"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tsi1221&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsi1221&layout=compact&theme=tokyonight" />
 
+</div>
+
+---
+
+# 🚀 FOOTER
+
+<div align="center">
+
+---
+
+### 💡 Build. Learn. Improve. Repeat.
+
+Made with ❤️ by **Tsehaynesh Biruh**
+
+Software Engineer • Full-Stack Developer • DevOps Enthusiast
+
+© 2026 All Rights Reserved
 
 </div>
