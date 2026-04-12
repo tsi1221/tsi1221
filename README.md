@@ -24,7 +24,7 @@
 
 <a href="mailto:tsehayneshbiruh2@gmail.com"><img src="https://img.shields.io/badge/Email-FF4ECD?style=for-the-badge&logo=gmail&logoColor=0F172A"/></a>
 
-<a href="https://tsehaynesh-biruh-ix1g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=0F172A"/></a>
+<a href="https://tsehayneshbiruh-et-com.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=0F172A"/></a>
 
 <a href="https://github.com/tsi1221"><img src="https://img.shields.io/badge/GitHub-7F00FF?style=for-the-badge&logo=github&logoColor=FF4ECD"/></a>
 
@@ -230,7 +230,7 @@ Software should feel **powerful, simple, and human-centered**.
 
 <a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4"><img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge"/></a>
 
-<a href="https://tsehaynesh-biruh-ix1g.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge"/></a>
+<a href="https://tsehayneshbiruh-et-com.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge"/></a>
 
 </p>
 
