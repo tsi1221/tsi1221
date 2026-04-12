@@ -129,9 +129,6 @@ Information Network Security Administration (INSA)
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FF4ECD,25:00E5FF,50:7F00FF,75:00FFB2,100:FF00C2" />
-
 **Built with intent • Scaled with discipline • Improved continuously**
 
 </div>?type=waving&height=130&section=footer&color=0:FF4ECD,25:00E5FF,50:7F00FF,75:00FFB2,100:FF00C2"/>
