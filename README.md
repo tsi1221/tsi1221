@@ -1,4 +1,105 @@
-<h1 align="center">Tsehaynesh Biruh</h1>
+<div align="center">
+
+<!-- HERO BANNER (CLEAN + MODERN) -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=200&text=Tsehaynesh%20Biruh&fontSize=48&fontColor=ffffff&color=0:0f172a,100:4f46e5" width="100%"/>
+
+<!-- TAGLINE -->
+<p>
+  Full-Stack Engineer • DevOps Practitioner • UI Engineer
+</p>
+
+<!-- QUICK LINKS -->
+<p>
+  <a href="mailto:tsehayneshbiruh2@gmail.com">Email</a> •
+  <a href="https://github.com/tsi1221">GitHub</a> •
+  <a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4">LinkedIn</a> •
+  <a href="https://tsehayneshbiruh-et-com.onrender.com/">Portfolio</a>
+</p>
+
+</div>
+
+---
+
+## 🧠 ABOUT
+
+Minimal, performance-focused software engineer building scalable web systems and clean user experiences.
+
+- Clean architecture
+- Cloud-native thinking
+- Scalable full-stack systems
+- UI precision & performance focus
+
+---
+
+## ⚙️ STACK
+
+**Frontend**  
+React • Next.js • TypeScript • Tailwind
+
+**Backend**  
+Node.js • Express • REST • GraphQL
+
+**Database**  
+MongoDB • PostgreSQL • Redis
+
+**DevOps**  
+Docker • Kubernetes • AWS • CI/CD • Nginx
+
+---
+
+## 🚀 CURRENT FOCUS
+
+- DevSecOps pipelines (CI/CD + security)
+- Scalable backend systems
+- React architecture & design systems
+- Cloud-native deployments
+- API-first development
+
+---
+
+## 🧩 EXPERIENCE
+
+**INSA Summer Camp 2025**
+- Full-stack + DevOps training program  
+- Built MERN applications with CI/CD pipelines  
+- Dockerized deployments & cloud fundamentals  
+- Networking & secure system design  
+
+---
+
+## 📊 ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsi1221&bg_color=0d1117&color=4f46e5&line=22d3ee&point=ffffff&area=true&hide_border=true"/>
+
+---
+
+## 🎯 NOW BUILDING
+
+- Production-ready full-stack apps
+- Kubernetes deployments
+- Backend architecture patterns
+- UI system libraries
+- API documentation systems
+
+---
+
+## 📫 CONNECT
+
+<p align="center">
+<a href="mailto:tsehayneshbiruh2@gmail.com">Email</a> •
+<a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4">LinkedIn</a> •
+<a href="https://tsehayneshbiruh-et-com.onrender.com/">Portfolio</a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:4f46e5"/>
+
+<strong>Build. Scale. Optimize.</strong>
+
+</div><h1 align="center">Tsehaynesh Biruh</h1>
 <h3 align="center">Software Engineer · Full‑Stack Developer · UI/UX Designer</h3>
 
 <p align="center">
