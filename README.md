@@ -36,7 +36,7 @@ My work revolves around creating systems that are:
 - ☁️ **Cloud-native, observable, and secure**
 - 🔗 **Well-documented and API-first**
 
-I believe software should be **powerful under the hood and simple on the surface**.
+I believe software should be powerful under the hood and simple on the surface.
 
 ---
 
