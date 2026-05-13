@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=34&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello+👋;I'm+Tsehaynesh+Biruh;Software+Engineering+Student;Full-Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=34&center=true&vCenter=true&width=760&height=70&duration=4000&lines=Hello+👋;I'm+Tsehaynesh+Biruh;Software+Engineering+Student;Full-Stack+%26+Frontend+Developer;DevOps+%26+AI%2FLLM+Enthusiast" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tsehaynesh%20Biruh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Frontend%20Engineering%20•%20DevOps&descAlignY=60&descSize=18&color=0:7F00FF,50:00C6FF,100:00FFB2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tsehaynesh%20Biruh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Frontend%20Engineering%20•%20DevOps%20•%20AI%2FLLM&descAlignY=60&descSize=18&color=0:7F00FF,50:00C6FF,100:00FFB2" width="100%"/>
 
 <p>
 <a href="mailto:tsehayneshbiruh2@gmail.com">
@@ -30,17 +30,17 @@
 
 <img align="right" alt="Developer" width="340" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
 
-I'm a Software Engineering student focused on full-stack development, frontend engineering, and DevOps.
+I'm a Software Engineering student focused on full-stack development, frontend engineering, DevOps, and modern AI-powered applications.
 
-I enjoy building responsive web applications, modern user interfaces, and scalable backend systems using JavaScript technologies.
+I enjoy building responsive user interfaces, scalable backend systems, and deployment workflows using modern JavaScript technologies.
 
 My interests include:
-- Frontend development
-- Full-stack web applications
-- DevOps and deployment workflows
-- API integration
-- Cloud-native applications
-- Modern JavaScript frameworks
+- Full-stack web development
+- Frontend engineering and UI systems
+- Backend APIs and integrations
+- DevOps and cloud-native workflows
+- AI/LLM-powered applications
+- Modern JavaScript frameworks and tools
 
 ---
 
@@ -81,19 +81,38 @@ My interests include:
 
 ---
 
+# 🚀 Featured Project
+
+## ⛓️ AfriLand
+
+A decentralized land registry platform focused on transparent land ownership verification and secure digital records.
+
+### Features
+- Land registration workflows
+- Blockchain-based ownership verification
+- Wallet integration
+- Smart contract interaction
+- Responsive frontend interface
+
+### Tech Stack
+React • Web3.js • Smart Contracts • Node.js • Docker
+
+---
+
 # 🌍 Experience
 
 ## INSA Summer Camp 2025
-Selected participant in a competitive engineering and infrastructure training program.
 
-Worked on:
+Selected participant in a competitive engineering and infrastructure training program focused on software engineering and DevOps practices.
+
+### Worked On
 - MERN stack application development
 - Frontend and backend integration
 - CI/CD workflows
-- Containerized deployments using Docker
+- Docker-based deployments
 - Cloud and DevOps practices
 
-Certifications:
+### Certifications
 - Fundamentals of DevOps on AWS
 - Introduction to Computer Networking
 
@@ -101,11 +120,13 @@ Certifications:
 
 # 🌱 Current Focus
 
-- Building scalable MERN stack applications
-- Improving frontend architecture and UI systems
-- Learning advanced DevOps workflows
-- Working with Docker and Kubernetes
-- Building responsive and accessible interfaces
+- Building scalable full-stack applications with the MERN stack
+- Improving frontend architecture and reusable UI systems
+- Learning DevOps workflows and deployment automation
+- Working with Docker, Kubernetes, and cloud-native tools
+- Exploring AI/LLM-powered applications and AI engineering concepts
+- Building modern backend APIs and integration systems
+- Creating responsive, accessible, and maintainable web interfaces
 
 ---
 
@@ -134,5 +155,5 @@ Certifications:
 ---
 
 <p align="center">
-Building modern web applications and continuously improving through real-world projects.
+Building modern applications and continuously improving through real-world projects and hands-on learning.
 </p>
