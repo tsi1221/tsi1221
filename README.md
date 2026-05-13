@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=34&center=true&vCenter=true&width=760&height=70&duration=4000&lines=Hello+👋;I'm+Tsehaynesh+Biruh;Software+Engineering+Student;Full-Stack+%26+Frontend+Developer;DevOps" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=33&center=true&vCenter=true&width=820&height=70&duration=4000&lines=Hello+👋;I'm+Tsehaynesh+Biruh;Software+Engineering+Student;Full-Stack+Developer;Frontend+Engineer+•+DevOps+Learner;Building+Modern+Web+Applications" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tsehaynesh%20Biruh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Frontend%20Engineering%20•%20DevOps%2,50:00C6FF,100:00FFB2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Tsehaynesh%20Biruh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Frontend%20Engineering%20•%20DevOps%20•%20AI%2FLLM&descAlignY=60&descSize=18&color=0:7F00FF,50:00C6FF,100:00FFB2" width="100%"/>
 
 <p>
 <a href="mailto:tsehayneshbiruh2@gmail.com">
@@ -30,23 +30,23 @@
 
 <img align="right" alt="Developer" width="340" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
 
-I'm a Software Engineering student focused on full-stack development, frontend engineering, DevOps, and modern AI-powered applications.
+I'm a Software Engineering student passionate about full-stack development, frontend engineering, DevOps, and modern AI-driven applications.
 
-I enjoy building responsive user interfaces, scalable backend systems, and deployment workflows using modern JavaScript technologies.
+I enjoy building responsive interfaces, scalable backend systems, and deployment workflows using modern JavaScript technologies and cloud-native tools.
 
-My interests include:
-- Full-stack web development
-- Frontend engineering and UI systems
+I’m especially interested in:
+- Full-stack JavaScript applications
+- Frontend architecture and UI systems
 - Backend APIs and integrations
-- DevOps and cloud-native workflows
+- DevOps and deployment automation
 - AI/LLM-powered applications
-- Modern JavaScript frameworks and tools
+- Cloud-native engineering workflows
 
 ---
 
 # ⚙️ Tech Stack
 
-## Frontend
+## 🎨 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0F172A"/>
@@ -58,7 +58,9 @@ My interests include:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## Backend
+---
+
+## ⚙️ Backend
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -68,7 +70,9 @@ My interests include:
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-## DevOps & Tools
+---
+
+## ☁️ DevOps & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -85,17 +89,17 @@ My interests include:
 
 ## ⛓️ AfriLand
 
-A decentralized land registry platform focused on transparent land ownership verification and secure digital records.
+A decentralized land registry platform designed to improve transparency and secure digital land ownership verification.
 
-### Features
+### Key Features
 - Land registration workflows
-- Blockchain-based ownership verification
-- Wallet integration
+- Blockchain ownership verification
 - Smart contract interaction
+- Wallet integration
 - Responsive frontend interface
 
-### Tech Stack
-React • Web3.js • Smart Contracts • Node.js • Docker
+### Technologies
+React • Web3.js • Node.js • Smart Contracts • Docker
 
 ---
 
@@ -103,14 +107,14 @@ React • Web3.js • Smart Contracts • Node.js • Docker
 
 ## INSA Summer Camp 2025
 
-Selected participant in a competitive engineering and infrastructure training program focused on software engineering and DevOps practices.
+Selected participant in an intensive engineering and infrastructure training program focused on software development and DevOps practices.
 
-### Worked On
-- MERN stack application development
-- Frontend and backend integration
-- CI/CD workflows
-- Docker-based deployments
-- Cloud and DevOps practices
+### Experience Highlights
+- Developed MERN stack applications
+- Worked on frontend and backend integration
+- Practiced CI/CD workflows
+- Built containerized applications with Docker
+- Explored cloud and DevOps workflows
 
 ### Certifications
 - Fundamentals of DevOps on AWS
@@ -120,13 +124,13 @@ Selected participant in a competitive engineering and infrastructure training pr
 
 # 🌱 Current Focus
 
-- Building scalable full-stack applications with the MERN stack
-- Improving frontend architecture and reusable UI systems
+- Developing scalable full-stack applications using the MERN stack
+- Improving frontend architecture and reusable UI components
 - Learning DevOps workflows and deployment automation
-- Working with Docker, Kubernetes, and cloud-native tools
+- Working with Docker, Kubernetes, and cloud-native technologies
 - Exploring AI/LLM-powered applications and AI engineering concepts
 - Building modern backend APIs and integration systems
-- Creating responsive, accessible, and maintainable web interfaces
+- Creating responsive, accessible, and maintainable user interfaces
 
 ---
 
@@ -155,5 +159,5 @@ Selected participant in a competitive engineering and infrastructure training pr
 ---
 
 <p align="center">
-Building modern applications and continuously improving through real-world projects and hands-on learning.
+Building modern applications through continuous learning, hands-on projects, and practical engineering experience.
 </p>
