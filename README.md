@@ -37,10 +37,9 @@ I enjoy building responsive interfaces, scalable backend systems, and deployment
 I’m especially interested in:
 - Full-stack JavaScript applications
 - Frontend architecture and UI systems
-- Backend APIs and integrations
 - DevOps and deployment automation
 - AI/LLM-powered applications
-- Cloud-native engineering workflows
+
 
 ---
 
