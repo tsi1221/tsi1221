@@ -123,13 +123,10 @@ Selected participant in an intensive engineering and infrastructure training pro
 
 # 🌱 Current Focus
 
-- Developing scalable full-stack applications using the MERN stack
-- Improving frontend architecture and reusable UI components
 - Learning DevOps workflows and deployment automation
-- Working with Docker, Kubernetes, and cloud-native technologies
 - Exploring AI/LLM-powered applications and AI engineering concepts
-- Building modern backend APIs and integration systems
-- Creating responsive, accessible, and maintainable user interfaces
+- Building modern  responsive, accessible, and maintainable user interfaces
+
 
 ---
 
