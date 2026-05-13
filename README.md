@@ -30,7 +30,7 @@
 
 <img align="right" alt="Developer" width="340" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
 
-I'm a Software Engineering student passionate about full-stack development, frontend engineering, DevOps, and modern AI-driven applications.
+I'm a Software Engineering student passionate about full-stack development, frontend engineering, and DevOps.
 
 I enjoy building responsive interfaces, scalable backend systems, and deployment workflows using modern JavaScript technologies and cloud-native tools.
 
