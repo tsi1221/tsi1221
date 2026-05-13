@@ -30,16 +30,18 @@
 
 <img align="right" alt="Developer" width="340" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
 
-I'm a Software Engineering student interested in backend systems, full-stack development, DevOps, and AI-powered applications.
+I'm a Software Engineering student focused on backend systems, full-stack development, and cloud-native applications.
 
-I enjoy building practical applications that combine clean interfaces with reliable backend architecture.
+I enjoy building practical software with clean architecture, scalable APIs, and modern deployment workflows.
 
-Currently, I am focused on:
-- Building scalable MERN stack applications
-- Learning cloud-native infrastructure and Kubernetes
-- Exploring AI workflows and LLM-powered systems
-- Improving backend engineering and API design
-- Working with blockchain and Web3 technologies
+My interests include:
+- Backend engineering
+- Full-stack web development
+- DevOps and infrastructure
+- Cloud-native systems
+- API design and integration
+- AI-assisted applications
+- Blockchain/Web3 technologies
 
 ---
 
@@ -65,7 +67,7 @@ Currently, I am focused on:
 <img src="https://img.shields.io/badge/REST_API-FF4ECD?style=for-the-badge"/>
 </p>
 
-## DevOps & Tools
+## DevOps & Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -77,33 +79,19 @@ Currently, I am focused on:
 
 ---
 
-# 🚀 Featured Projects
-
-## 🧠 AI Virtual Pet
-AI-powered virtual pet system with conversational interaction, memory, and emotional responses.
-
-**Tech:** React • Node.js • AI APIs
-
----
+# 🚀 Featured Work
 
 ## ⛓️ AfriLand
-Blockchain-based land registry platform focused on transparency and secure ownership verification.
+Decentralized land registry application designed for transparent ownership verification.
 
 **Tech:** React • Web3.js • Smart Contracts
 
 ---
 
-## 💊 MediChain
-Medicine authenticity tracking platform designed to help detect counterfeit drugs.
-
-**Tech:** MERN Stack • Blockchain • APIs
-
----
-
 ## ☁️ DevPortfolio Infrastructure
-Containerized full-stack application deployed with Docker, Kubernetes, and Nginx.
+Containerized full-stack application deployed using Docker, Kubernetes, and Nginx.
 
-**Focus:** CI/CD • Deployment • DevOps
+**Focus:** CI/CD • Deployment • DevOps Practices
 
 ---
 
@@ -113,7 +101,7 @@ Containerized full-stack application deployed with Docker, Kubernetes, and Nginx
 Selected participant in a competitive engineering and infrastructure training program.
 
 Worked on:
-- MERN stack development
+- MERN stack application development
 - CI/CD workflows
 - Containerized deployments
 - Cloud and DevOps practices
@@ -127,10 +115,11 @@ Certifications:
 # 🌱 Current Focus
 
 - Backend engineering and scalable APIs
-- AI-integrated applications
-- Kubernetes and DevOps workflows
 - Cloud-native application deployment
-- Learning production AI systems
+- Kubernetes and DevOps workflows
+- Modern React architecture
+- AI-integrated applications
+- Learning production system design
 
 ---
 
@@ -159,5 +148,5 @@ Certifications:
 ---
 
 <p align="center">
-Building practical systems and continuously improving through learning and real projects.
+Building practical systems and continuously improving through learning and real-world projects.
 </p>
