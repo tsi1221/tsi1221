@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=34&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello+👋;I'm+Tsehaynesh+Biruh;Software+Engineering+Student;Full-Stack+Developer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tsehaynesh%20Biruh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Backend%20Engineering%20•%20DevOps&descAlignY=60&descSize=18&color=0:7F00FF,50:00C6FF,100:00FFB2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tsehaynesh%20Biruh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Frontend%20Engineering%20•%20DevOps&descAlignY=60&descSize=18&color=0:7F00FF,50:00C6FF,100:00FFB2" width="100%"/>
 
 <p>
 <a href="mailto:tsehayneshbiruh2@gmail.com">
@@ -30,18 +30,17 @@
 
 <img align="right" alt="Developer" width="340" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
 
-I'm a Software Engineering student focused on backend systems, full-stack development, and cloud-native applications.
+I'm a Software Engineering student focused on full-stack development, frontend engineering, and DevOps.
 
-I enjoy building practical software with clean architecture, scalable APIs, and modern deployment workflows.
+I enjoy building responsive web applications, modern user interfaces, and scalable backend systems using JavaScript technologies.
 
 My interests include:
-- Backend engineering
-- Full-stack web development
-- DevOps and infrastructure
-- Cloud-native systems
-- API design and integration
-- AI-assisted applications
-- Blockchain/Web3 technologies
+- Frontend development
+- Full-stack web applications
+- DevOps and deployment workflows
+- API integration
+- Cloud-native applications
+- Modern JavaScript frameworks
 
 ---
 
@@ -55,19 +54,21 @@ My interests include:
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=000000"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## Backend & Database
+## Backend
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF4ECD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF4ECD?style=for-the-badge"/>
 </p>
 
-## DevOps & Infrastructure
+## DevOps & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -75,23 +76,8 @@ My interests include:
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
-
----
-
-# 🚀 Featured Work
-
-## ⛓️ AfriLand
-Decentralized land registry application designed for transparent ownership verification.
-
-**Tech:** React • Web3.js • Smart Contracts
-
----
-
-## ☁️ DevPortfolio Infrastructure
-Containerized full-stack application deployed using Docker, Kubernetes, and Nginx.
-
-**Focus:** CI/CD • Deployment • DevOps Practices
 
 ---
 
@@ -102,8 +88,9 @@ Selected participant in a competitive engineering and infrastructure training pr
 
 Worked on:
 - MERN stack application development
+- Frontend and backend integration
 - CI/CD workflows
-- Containerized deployments
+- Containerized deployments using Docker
 - Cloud and DevOps practices
 
 Certifications:
@@ -114,12 +101,11 @@ Certifications:
 
 # 🌱 Current Focus
 
-- Backend engineering and scalable APIs
-- Cloud-native application deployment
-- Kubernetes and DevOps workflows
-- Modern React architecture
-- AI-integrated applications
-- Learning production system design
+- Building scalable MERN stack applications
+- Improving frontend architecture and UI systems
+- Learning advanced DevOps workflows
+- Working with Docker and Kubernetes
+- Building responsive and accessible interfaces
 
 ---
 
@@ -148,5 +134,5 @@ Certifications:
 ---
 
 <p align="center">
-Building practical systems and continuously improving through learning and real-world projects.
+Building modern web applications and continuously improving through real-world projects.
 </p>
