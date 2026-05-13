@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=34&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+👋;I'm+Tsehaynesh+Biruh;Software+Engineering+Student;Full-Stack+%26+Backend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=34&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello+👋;I'm+Tsehaynesh+Biruh;Software+Engineering+Student;Full-Stack+Developer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tsehaynesh%20Biruh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Backend%20Engineering%20•%20DevOps%20•%20AI%20Systems&descAlignY=60&descSize=18&color=0:7F00FF,50:00C6FF,100:00FFB2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tsehaynesh%20Biruh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Backend%20Engineering%20•%20DevOps&descAlignY=60&descSize=18&color=0:7F00FF,50:00C6FF,100:00FFB2" width="100%"/>
 
 <p>
 <a href="mailto:tsehayneshbiruh2@gmail.com">
@@ -28,108 +28,92 @@
 
 # 👩‍💻 About Me
 
-I am a Software Engineering student focused on building scalable web applications, backend systems, and cloud-native infrastructure.
+<img align="right" alt="Developer" width="340" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
 
-My work combines:
-- Full-stack application development
-- Backend API engineering
-- DevOps and deployment workflows
-- AI-assisted systems and automation
-- Blockchain/Web3 integration
+I'm a Software Engineering student interested in backend systems, full-stack development, DevOps, and AI-powered applications.
 
-I enjoy designing systems that are maintainable, practical, and production-oriented.
+I enjoy building practical applications that combine clean interfaces with reliable backend architecture.
 
-Currently, I am exploring:
-- AI agent workflows
-- LLM-powered applications
-- Kubernetes and DevSecOps
-- Modern React architecture
-- Distributed and cloud-native systems
+Currently, I am focused on:
+- Building scalable MERN stack applications
+- Learning cloud-native infrastructure and Kubernetes
+- Exploring AI workflows and LLM-powered systems
+- Improving backend engineering and API design
+- Working with blockchain and Web3 technologies
 
 ---
 
 # ⚙️ Tech Stack
 
 ## Frontend
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- shadcn/ui
 
-## Backend
-- Node.js
-- Express.js
-- REST APIs
-- GraphQL
-- Swagger/OpenAPI
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0F172A"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=000000"/>
+</p>
 
-## Databases
-- MongoDB
-- PostgreSQL
-- MySQL
-- Redis
+## Backend & Database
 
-## DevOps & Infrastructure
-- Docker
-- Kubernetes
-- Nginx
-- GitHub Actions
-- Linux
-- AWS
-- Jenkins
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF4ECD?style=for-the-badge"/>
+</p>
 
-## AI / Emerging Tech
-- OpenAI API
-- AI workflow integration
-- Prompt engineering
-- Conversational systems
-- Blockchain/Web3
+## DevOps & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 AI Virtual Pet System
-AI-powered conversational pet application with memory, emotional interaction, and dynamic responses.
+## 🧠 AI Virtual Pet
+AI-powered virtual pet system with conversational interaction, memory, and emotional responses.
 
-**Tech Used**
-React • Node.js • AI APIs • State Management
-
----
-
-## ⛓️ AfriLand – Decentralized Land Registry
-Blockchain-based land registration platform focused on transparency and verification.
-
-**Tech Used**
-React • Web3.js • Smart Contracts • Docker
+**Tech:** React • Node.js • AI APIs
 
 ---
 
-## 💊 MediChain – Drug Authenticity Tracker
-Blockchain-powered medicine verification system designed to help detect counterfeit drugs.
+## ⛓️ AfriLand
+Blockchain-based land registry platform focused on transparency and secure ownership verification.
 
-**Tech Used**
-React • Node.js • Blockchain • MongoDB
-
----
-
-## ☁️ DevPortfolio Infrastructure Project
-Full-stack portfolio platform deployed using Docker, Kubernetes, Nginx, and CI/CD workflows.
-
-**Focus Areas**
-Containerization • Reverse Proxy • Deployment Automation • DevOps
+**Tech:** React • Web3.js • Smart Contracts
 
 ---
 
-# 📚 Experience
+## 💊 MediChain
+Medicine authenticity tracking platform designed to help detect counterfeit drugs.
+
+**Tech:** MERN Stack • Blockchain • APIs
+
+---
+
+## ☁️ DevPortfolio Infrastructure
+Containerized full-stack application deployed with Docker, Kubernetes, and Nginx.
+
+**Focus:** CI/CD • Deployment • DevOps
+
+---
+
+# 🌍 Experience
 
 ## INSA Summer Camp 2025
 Selected participant in a competitive engineering and infrastructure training program.
 
 Worked on:
-- MERN stack application development
+- MERN stack development
 - CI/CD workflows
 - Containerized deployments
 - Cloud and DevOps practices
@@ -140,13 +124,19 @@ Certifications:
 
 ---
 
-# 📈 Current Focus
+# 🌱 Current Focus
 
-- Building AI-integrated applications
-- Improving backend architecture skills
-- Learning production AI workflows
-- Advancing Kubernetes & DevSecOps knowledge
-- Developing scalable APIs and infrastructure
+- Backend engineering and scalable APIs
+- AI-integrated applications
+- Kubernetes and DevOps workflows
+- Cloud-native application deployment
+- Learning production AI systems
+
+---
+
+# 📊 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsi1221&bg_color=0D1117&color=00E5FF&line=7F00FF&point=00FFB2&area=true&hide_border=true"/>
 
 ---
 
@@ -169,5 +159,5 @@ Certifications:
 ---
 
 <p align="center">
-Building reliable systems and continuously improving through practice.
+Building practical systems and continuously improving through learning and real projects.
 </p>
