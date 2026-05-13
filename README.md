@@ -122,10 +122,7 @@ Selected participant in an intensive engineering and infrastructure training pro
 ---
 
 # 🌱 Current Focus
-
-- Learning DevOps workflows and deployment automation
 - Exploring AI/LLM-powered applications and AI engineering concepts
-- Building modern  responsive, accessible, and maintainable user interfaces
 
 
 ---
