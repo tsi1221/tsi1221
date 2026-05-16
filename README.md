@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=33&center=true&vCenter=true&width=820&height=70&duration=4000&lines=Hello+👋;I'm+Tsehaynesh+Biruh;Software+Engineering+Student;Full-Stack+Developer;Frontend+Engineer+•+DevOps+Learner;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=33&center=true&vCenter=true&width=820&height=70&duration=4000&lines=Hello+👋;I'm+Tsehaynesh+Biruh;Software+Engineering+Student;Full-Stack+Developer;Frontend+Engineer+•+DevOps+Engineer;Building+Scalable+Web+Systems" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Tsehaynesh%20Biruh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Frontend%20Engineering%20•%20DevOps%20&descAlignY=60&descSize=18&color=0:7F00FF,50:00C6FF,100:00FFB2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Tsehaynesh%20Biruh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20Frontend%20•%20DevOps%20•%20Cloud%20Learner&descAlignY=60&descSize=18&color=0:000000,50:111827,100:000000" width="100%"/>
 
 <p>
 <a href="mailto:tsehayneshbiruh2@gmail.com">
-<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0B0B0B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/tsi1221">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://tsehayneshbiruh-et-com.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0B0B0B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
 
@@ -28,76 +28,78 @@
 
 # 👩‍💻 About Me
 
-<img align="right" alt="Developer" width="340" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
 
-I'm a Software Engineering student passionate about full-stack development, frontend engineering, and DevOps.
+Software Engineering student focused on building scalable, production-ready web applications with modern technologies.
 
-I enjoy building responsive interfaces, scalable backend systems, and deployment workflows using modern JavaScript technologies and cloud-native tools.
+Core interests:
+- Full-stack JavaScript development (React, Next.js, Node.js)
+- System design and backend architecture
+- UI engineering and responsive design systems
+- DevOps workflows (Docker, CI/CD, Kubernetes basics)
+- AI-integrated applications
 
-I’m especially interested in:
-- Full-stack JavaScript applications
-- Frontend architecture and UI systems
-- DevOps and deployment automation
-- AI/LLM-powered applications
+---
 
+# 🧠 Skills Overview
+
+- Frontend engineering with modern frameworks  
+- REST API design and backend development  
+- Authentication and authorization systems  
+- Database design (MongoDB, PostgreSQL)  
+- Containerization with Docker  
+- CI/CD automation pipelines  
+- Cloud deployment fundamentals  
 
 ---
 
 # ⚙️ Tech Stack
 
-## 🎨 Frontend
-
+## Frontend
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0F172A"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=000000"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0B0B0B?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0B0B0B?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-0B0B0B?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-0B0B0B?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0B0B0B?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 </p>
 
----
-
-## ⚙️ Backend
-
+## Backend
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF4ECD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-0B0B0B?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-0B0B0B?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-0B0B0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-0B0B0B?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0B0B0B?style=for-the-badge&logo=postgresql&logoColor=316192"/>
 </p>
 
----
-
-## ☁️ DevOps & Tools
-
+## DevOps & Tools
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Docker-0B0B0B?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Kubernetes-0B0B0B?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Nginx-0B0B0B?style=for-the-badge&logo=nginx&logoColor=009639"/>
+<img src="https://img.shields.io/badge/Linux-0B0B0B?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0B0B0B?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/Git-0B0B0B?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
 
 ---
 
 # 🚀 Featured Project
 
-## ⛓️ AfriLand
+## ⛓️ AfriLand — Blockchain Land Registry
 
-A decentralized land registry platform designed to improve transparency and secure digital land ownership verification.
+A decentralized platform for transparent land ownership and verification.
 
-### Key Features
-- Land registration workflows
-- Blockchain ownership verification
-- Smart contract interaction
-- Wallet integration
-- Responsive frontend interface
+### Features
+- Digital land registration system
+- Blockchain-based ownership verification
+- Smart contract integration
+- Wallet authentication
+- Responsive UI
 
-### Technologies
+### Tech Stack
 React • Web3.js • Node.js • Smart Contracts • Docker
 
 ---
@@ -106,24 +108,27 @@ React • Web3.js • Node.js • Smart Contracts • Docker
 
 ## INSA Summer Camp 2025
 
-Selected participant in an intensive engineering and infrastructure training program focused on software development and DevOps practices.
+Intensive software engineering and DevOps training program.
 
-### Experience Highlights
-- Developed MERN stack applications
-- Worked on frontend and backend integration
-- Practiced CI/CD workflows
-- Built containerized applications with Docker
-- Explored cloud and DevOps workflows
+### Highlights
+- Built MERN stack applications
+- Developed REST APIs
+- Worked with Dockerized deployments
+- Implemented CI/CD pipelines
+- Learned cloud infrastructure basics
 
 ### Certifications
-- Fundamentals of DevOps on AWS
-- Introduction to Computer Networking
+- DevOps Fundamentals (AWS)
+- Computer Networking Basics
 
 ---
 
 # 🌱 Current Focus
-- Exploring AI/LLM-powered applications and AI engineering concepts
 
+- AI/LLM-powered application development  
+- Advanced backend system architecture  
+- Scalable cloud-native applications  
+- DevOps and automation engineering  
 
 ---
 
@@ -137,20 +142,20 @@ Selected participant in an intensive engineering and infrastructure training pro
 
 <p align="center">
 <a href="mailto:tsehayneshbiruh2@gmail.com">
-<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0B0B0B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/tsehaynesh-biruh-8681852a4">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/tsi1221">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-Building modern applications through continuous learning, hands-on projects, and practical engineering experience.
+Engineering scalable systems, clean UI architectures, and production-ready applications with modern tools and continuous learning.
 </p>
