@@ -2,7 +2,7 @@ Tsehaynesh Biruh
 
  Software Engineer · Full-Stack Developer
 
->  I build modern, scalable web applications with a focus on **Frontend · Backend · DevOps**.
+ I build modern, scalable web applications with a focus on **Frontend · Backend · DevOps**.
 
 ### 🛠️ Tech Stack
 
