@@ -23,5 +23,5 @@ Tsehaynesh Biruh
 
 [![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/tsi1221)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsehaynesh-biruh-8681852a4/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-16A34A?style=flat-square&logo=googlechrome&logoColor=white)](https://tsehayneshbiruh-et-com.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-16A34A?style=flat-square&logo=googlechrome&logoColor=white)](https://tsehaynesh-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tsehayneshbiruh2@gmail.com)
